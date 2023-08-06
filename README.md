@@ -40,7 +40,7 @@
 | ----| ---- | ---- |
 | :seedling: | [정규화]() | 화이팅! |
 | :seedling: | [인덱스(카디널리티, 선택도]() | 화이팅! |
-| :seedling: | [NoSQL, Redis]() | 화이팅! |
+| :seedling: | [NoSQL, Redis]() | 박현철 |
 | :seedling: | [트랜잭션]() | 화이팅! |
 
 <br /><br />
