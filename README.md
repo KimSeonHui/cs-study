@@ -87,7 +87,7 @@
 | ----| ---- | ---- |
 | :seedling: | [쿠키 vs 세션]() | 화이팅! |
 | :seedling: | [CSR vs SSR]() | 화이팅! |
-| :seedling: | [브라우저의 랜더링 과정]() | 화이팅! |
+| :seedling: | [브라우저의 랜더링 과정]() | 김선희 |
 | :seedling: | [BOM vs DOM]() | 화이팅! |
 | :seedling: | [CI / CD]() | 화이팅! |
 | :seedling: | [동일 출처 정책(SOP)]() | 강준영 |
