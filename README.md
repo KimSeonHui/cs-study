@@ -95,6 +95,7 @@
 | :seedling: | [Ajax]() | 강준영 |
 | :seedling: | [REST API란]() | 화이팅! |
 | :seedling: | [SSE, 폴링, 웹소켓]() | 화이팅! |
+| :white_check_mark: | [폴링, 웹소켓](https://github.com/KimSeonHui/cs-study/blob/main/network/websocket.md) | 김선희 |
 | :seedling: | [동시성 처리]() | 화이팅! |
 
 <br /><br />
