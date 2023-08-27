@@ -30,7 +30,7 @@
 | :seedling: | [OSI 계층]() | 화이팅! |
 | :seedling: | [IP, URL, DNS]() | 화이팅! |
 | :seedling: | [NAT, DHCP]() | 화이팅! |
-| :seedling: | [Http vs Https]() | 화이팅! |
+| :question: | [Http vs Https](https://github.com/KimSeonHui/cs-study/blob/main/network/http-https.md) | 김선희 |
 | :seedling: | [GET vs POST]() | 화이팅! |
 
 <br /><br />
@@ -87,14 +87,15 @@
 | ----| ---- | ---- |
 | :seedling: | [쿠키 vs 세션]() | 화이팅! |
 | :seedling: | [CSR vs SSR]() | 화이팅! |
-| :seedling: | [브라우저의 랜더링 과정]() | 김선희 |
+| :white_check_mark: | [브라우저의 랜더링 과정](https://github.com/KimSeonHui/cs-study/blob/main/web/browser-rendering.md) | 김선희 |
 | :seedling: | [BOM vs DOM]() | 화이팅! |
 | :seedling: | [CI / CD]() | 화이팅! |
-| :seedling: | [동일 출처 정책(SOP)]() | 강준영 |
+| :seedling: | [동일 출처 정책(SOP)](https://github.com/KimSeonHui/cs-study/blob/main/web/SOP.md) | 강준영 |
 | :seedling: | [XSS와 CSRF]() | 화이팅! |
-| :seedling: | [Ajax]() | 강준영 |
+| :seedling: | [Ajax](https://github.com/KimSeonHui/cs-study/blob/main/web/Ajax.md) | 강준영 |
 | :seedling: | [REST API란]() | 화이팅! |
 | :seedling: | [SSE, 폴링, 웹소켓]() | 화이팅! |
+| :white_check_mark: | [폴링, 웹소켓](https://github.com/KimSeonHui/cs-study/blob/main/network/websocket.md) | 김선희 |
 | :seedling: | [동시성 처리]() | 화이팅! |
 
 <br /><br />
