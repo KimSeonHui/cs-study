@@ -30,7 +30,8 @@
 | :seedling: | [OSI 계층]() | 화이팅! |
 | :seedling: | [IP, URL, DNS]() | 화이팅! |
 | :seedling: | [NAT, DHCP]() | 화이팅! |
-| :question: | [Http vs Https](https://github.com/KimSeonHui/cs-study/blob/main/network/http-https.md) | 김선희 |
+| :white_check_mark: | [Http vs Https](https://github.com/KimSeonHui/cs-study/blob/main/network/http-https.md) | 김선희 |
+| :white_check_mark: | [Https 동작 과정](https://github.com/KimSeonHui/cs-study/blob/main/network/Https%20%EB%8F%99%EC%9E%91%20%EA%B3%BC%EC%A0%95.md) | 김선희 |
 | :seedling: | [GET vs POST]() | 화이팅! |
 
 <br /><br />
@@ -58,7 +59,7 @@
 ### 알고리즘
 | | 내용 | 발표자 |
 | ----| ---- | ---- |
-| :seedling: | [정렬]() | 화이팅! |
+| :seedling: | [정렬]() | 강준영 |
 
 
 <br /><br />
