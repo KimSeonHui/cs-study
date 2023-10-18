@@ -93,19 +93,20 @@ spring:
 ```
 
 - client-id, secret 발급 받기
-    1. [https://github.com/settings/developers](https://github.com/settings/developers) 접속
-    2. New OAuth App 클릭
+1. [https://github.com/settings/developers](https://github.com/settings/developers) 접속
+2. New OAuth App 클릭
 
     
- ![Alt text](spring/spring-security1.png)
+ ![Alt text](spring-security1.png)
+  
+3. 서비스 URL과, API URL 입력 후, Register Application 클릭
+    
+ ![Alt text](spring-security2.png)
+    
+4. Client ID와, Client Secret 확인
 
     
-    1. **서비스 URL과, API URL 입력 후, Register Application 클릭**
-    
- ![Alt text](spring/spring-security2.png)
-    
-    1. **Client ID와, Client Secret 확인**
- ![Alt text](spring/spring-security3.png)
+ ![Alt text](spring-security3.png)
 
 
 
